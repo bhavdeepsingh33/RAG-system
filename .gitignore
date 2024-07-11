@@ -1,3 +1,2 @@
 .env
 langchain_helper.py
-vector_index.pkl
